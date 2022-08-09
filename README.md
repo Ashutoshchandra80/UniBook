@@ -4,14 +4,8 @@
 </p>
 </h1>
 
-![Built-At-Hack36](https://user-images.githubusercontent.com/42494153/164942832-baf753cd-58e4-41a3-8410-e387c70f8ec6.png)
-
-
-<h2> Team Name : Bulldozer </h2>
 
 <h2> Description </h2>
-
- This project was made during the Annual Hackathon <b> Hack 36 5.O (2022)</b> of our college MNNIT Allahabad, Prayagraj.<br>
 
  An app that lets present Students and the Alumni of the institute to connect, Alumni's can also help students in Jobs/Internships finding , also Students can share    their achievements and other professional events with other students of the institute.
 
@@ -69,17 +63,12 @@ and there it is !!
 
  <h2> Demo Video Link </h2>
  https://youtu.be/qqWTmsZtOuQ <br>
- https://drive.google.com/file/d/1kkXTZmSXD8nA8SSe7s_SR14IFqx__v9n/view?usp=sharing
-
- 
- <h2> Presentation Link </h2> <br>
- https://docs.google.com/presentation/d/1VktKo-9SpjfuiDZJLqrPpQsQmL9Bt6gOKKVAuKow3Us/edit?usp=sharing
  
  <h2> Contributors </h2>
  <ul>
  <li>Pritam Pawar</li>
  <li>Satya Prakash Satyam<br></li>
- <li>Ayushman Singh</li>
+ <li>Ashutosh Chandra Srivastava</li>
  </ul>
 
  ## Screenshots 
