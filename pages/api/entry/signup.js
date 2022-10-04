@@ -40,7 +40,7 @@ export default async function handler (req, res) {
 //    "registration":"2",
 //    "branch":"electrical",
 //    "idCard":"fhdjfue",
-//    "interests":"porn",
+//    "interests":"travel",
 //    "password":"abc",
 //    "isVerified": "false"
 //    }
